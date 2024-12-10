@@ -1,0 +1,18 @@
+{
+  "name": "tp-01",
+  "version": "1.0.0",
+  "description": "A simple project",
+  "main": "index.js",
+  "author": "Anas",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server",
+    "test": "jest",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "live-server": "^1.2.2"
+  }
+}
